@@ -8,3 +8,7 @@
 #### Mål: 
 * Användare ska kunna navigera på sidan efter förfrågan.
 * Testet ska lyckas med våran målgrupp.
+
+#### Frågor för Wireframe(s) Testerna
+* Hittar du de olika elementen på sidan där du förväntat dig?
+* Är positionen av sidans olika innehåll bekvämt att navigera kring?
