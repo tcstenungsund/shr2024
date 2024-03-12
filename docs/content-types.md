@@ -8,4 +8,4 @@
 6. En kontent type med kontaktuppgifter och address. Kontakt?
 7. En content type med sociala medier. Sociala_medier
 8. Article.
-9. Basic page.
+9. Basic page. 
