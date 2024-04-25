@@ -69,10 +69,10 @@
     node.isSticky() ? 'node--sticky',
     not node.isPublished() ? 'node--unpublished',
     view_mode ? 'node--view-mode-' ~ view_mode|clean_class,
-    'clearfix',
+    'clearfix','views-row', 'col-6', 'card', 'w-25'
   ]
 %}
-<article{{ attributes.addClass(classes) }}>
+<article{{ attributes.addClass(classes) }} >
   <header>
     {{ title_prefix }}
     {% if label and not page %}
