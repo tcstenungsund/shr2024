@@ -2,3 +2,9 @@
  * @file
  * Subtheme specific CSS.
  */
+.field--type-image {
+  padding-top: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
