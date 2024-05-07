@@ -3,7 +3,7 @@ Pattern Library
 
 Länkar:
 
-Länkar ska ha vår färg för länkarna, en underline när man inte hoverar och när man hoverar ska underlinen försvinna.
+Länkar ska ha en underline när man hoverar och när man hoverar ska det finnas en underline.
 
 
 Cards:
