@@ -1,0 +1,16 @@
+/*länkar*/
+
+.link-a {
+  text-decoration: underline;
+}
+
+.link-a:hover {
+  text-decoration: none;
+}
+
+
+/*Kort, SÄTT DENNA PÅ DET DU INTE VILL SKA VISAS PÅ KORTET*/
+
+.dis-none {
+  display: none;
+}
