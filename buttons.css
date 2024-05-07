@@ -1,11 +1,13 @@
+/*OBS ANVÄND BOOTSTRAPS KORT OCH KNAPPAR OCH APLICERA NEDANSTÅENDE KLASSER VID BEHOV!*/
+
 /*länkar*/
 
 .link-a {
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 .link-a:hover {
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 
