@@ -27,3 +27,10 @@
 .blur-background-color-fix {
   background: #000000d1;
 }
+.carousel-image {
+  height: 10em;
+}
+.carousel-item-custom {
+  width: auto;
+  margin-right: 100%;
+}
