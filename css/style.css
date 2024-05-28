@@ -125,4 +125,29 @@
   .c-sm-12 {
     grid-column: span 12;
   }
+  
+.field--type-image {
+  padding-top: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.custom-grid {
+  grid-row: 1;
+  grid-column: 1 / 13;
+}
+.vh-90 {
+  height: 90vh;
+}
+.no-img-streach {
+  object-fit: cover;
+}
+.gray-filter {
+  filter: brightness(0.4) contrast(90%) blur(0.15rem);
+}
+.z-index {
+  z-index: 999;
+}
+.blur-background-color-fix {
+  background: #000000d1;
 }
