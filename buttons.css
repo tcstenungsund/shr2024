@@ -1,0 +1,18 @@
+/*OBS ANVÄND BOOTSTRAPS KORT OCH KNAPPAR OCH APLICERA NEDANSTÅENDE KLASSER VID BEHOV!*/
+
+/*länkar*/
+
+.link-a {
+  text-decoration: none;
+}
+
+.link-a:hover {
+  text-decoration: underline;
+}
+
+
+/*Kort, SÄTT DENNA PÅ DET DU INTE VILL SKA VISAS PÅ KORTET*/
+
+.dis-none {
+  display: none;
+}
