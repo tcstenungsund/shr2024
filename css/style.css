@@ -125,7 +125,7 @@
   .c-sm-12 {
     grid-column: span 12;
   }
-  
+}
 .field--type-image {
   padding-top: 1rem;
   display: flex;
