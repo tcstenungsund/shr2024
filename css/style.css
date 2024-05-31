@@ -151,6 +151,25 @@
 .blur-background-color-fix {
   background: #000000d1;
 }
+
+footer .site-footer__top {
+  display: inline-flex;
+  flex-flow: row wrap;
+  justify-content: space-evenly;
+  text-align: center;
+  width: 100%;
+}
+
+.region-footer-first {
+  display: flex;
+  align-items: center;
+}
+
+.region-footer-second {
+  display: flex;
+  align-items: center;
+}
+=======
 .carousel-image {
   height: 10em;
 }
